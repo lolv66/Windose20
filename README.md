@@ -3,6 +3,7 @@ A Windows 98 theme inspired by the game "Needy Streamer Overload".
 <img src="tutorial/main.png">
 <h> stuff that you will need </h>
 <ul>
+<li><a href="https://www.stardock.com/products/windowblinds">Windowblinds</a></li>
 <li><a href="https://github.com/valinet/ExplorerPatcher">Explorer Patcher</a></li>
 <li><a href="https://github.com/SolidZORO/zpix-pixel-font">Zpix Font</a></li>
 </ul>
