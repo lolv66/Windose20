@@ -1,7 +1,6 @@
 <h1>Windose20</h1>
 A Windows 98 theme inspired by the game "Needy Streamer Overload".
 <img src="tutorial/main.png">
-<BR>
 <h> stuff that you will need </h>
 <ul>
 <li><a href="https://github.com/valinet/ExplorerPatcher">Explorer Patcher</a></li>
