@@ -15,6 +15,7 @@ A Windows 98 theme inspired by the game "Needy Streamer Overload".
 </ul>
 (a tutorial on how to install all of this is <a href="https://www.reddit.com/r/NeedyStreamerOverload/comments/17vxol0/ultimate_nso_desktop_theme_guide_windows">here!</a>)
   <br>
+  <br>
 <H> HOW TO INSTALL </H>
 <pre>
 <b>1.</b> <h>Installing Windowblinds</h>
