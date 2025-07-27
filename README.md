@@ -4,15 +4,15 @@ A Windows 98 theme inspired by the game "Needy Streamer Overload".
 <BR>
 <h> stuff that you will need </h>
 <ul>
-<li><a>Explorer Patcher</a></li>
-<li><a>Winaero Tweaker</a></li>
-<li><a>Zpix Font</a></li>
+<li><a href="https://github.com/valinet/ExplorerPatcher">Explorer Patcher</a></li>
+<li><a href="https://github.com/SolidZORO/zpix-pixel-font">Zpix Font</a></li>
 </ul>
 <h>optional <i>(but increases the NSO-look of your desktop!! >w<)</i></h>
 <ul>
-<li><a>NSO Rainmeter skins</a></li>
-<li><a>OpenShell Startmenu</a></li>
-<li><a>RetroBar</a></li>
+<li><a href="https://github.com/lezzthanthree/Needy-Streamer-Overload">NSO Rainmeter skins</a></li>
+<li><a href="https://github.com/Open-Shell/Open-Shell-Menu">OpenShell Startmenu</a></li>
+<li><a href="https://github.com/dremin/RetroBar">RetroBar</a></li>
+<li><a href="https://winaerotweaker.com">Winaero Tweaker</a></li> 
 </ul>
 <H> HOW TO INSTALL </H>
 <pre>
@@ -28,9 +28,7 @@ Go onto Windowblinds and you'll see this page
 Scroll down, click my theme then click and "Apply style to desktop"
 You're all ready !! ꉂ(˵˃ ᗜ ˂˵)
 <br>
-<b>3.</b> <h>Explorer patcher & Winearo tweaker settings</h>
-
-
-
-
+<b>3.</b> <h>Explorer patcher settings</h>
+<img style="width: 600px;"src="tutorial/explorer.png">
+  
 </pre>
